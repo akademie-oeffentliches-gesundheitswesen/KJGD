@@ -148,9 +148,6 @@ kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und
 Weiterverarbeitung durch Andere ohne oder mit geringfügigen
 Einschränkungen ermöglichen.
 
-Das Lehrbuch ist in aktualisierter Form auch als gedrucktes Lehrbuch
-kostengünstig on-demand erhältlich.
-
 ## Haftungsausschluss (Disclaimer)
 
 Die in diesem einzigartigen Lehrbuch zusammengefassten Inhalte beruhen
