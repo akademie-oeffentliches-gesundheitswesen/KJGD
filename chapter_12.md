@@ -10,7 +10,7 @@ nav_order: 13
 <p>Der Kinder- und Jugendgesundheitsdienst<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
 ISBN 978-3-9812871-4-1<br/>
-DOI <a href="https://doi.org/10.25815/6f4j-aq15" title="https://doi.org/10.25815/6f4j-aq15">10.25815/6f4j-aq15</a><br/>
+DOI <a href="https://doi.org/10.61163/6f4j-aq15" title="https://doi.org/10.61163/6f4j-aq15">10.61163/6f4j-aq15</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
 
